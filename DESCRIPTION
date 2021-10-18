@@ -2,8 +2,8 @@ Package: ExamplePackage
 Type: Package
 Title: The Diamond Plot Maker
 Version: 0.1.0
-Author: Elizabeth Sweeney
-Maintainer: Elizabeth Sweeney ,ems4003@med.cornell.edu>
+Author: Yuxin Zhang
+Maintainer: Yuxin Zhang <yuz4006@med.cornell.edu>
 Description: Make a diamond plot
 License: What license is it under?
 Encoding: UTF-8
